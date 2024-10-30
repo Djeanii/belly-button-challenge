@@ -1,4 +1,4 @@
-Belly Button Biodiversity Dashboard
+**Belly Button Biodiversity Dashboard**
 
 This project is an interactive dashboard built to explore the Belly Button Biodiversity dataset, which catalogs the microbes found in human navels. The dashboard allows users to select individual samples and visualize the top microbial species (Operational Taxonomic Units, or OTUs) for each sample, along with additional information in a metadata panel. The data is visualized with a bar chart, a bubble chart, and demographic information, allowing insights into the microbial diversity of each sample.
 
@@ -24,15 +24,17 @@ An active internet connection to load external libraries (D3 and Plotly).
 Visual Studio Code (or another code editor).
 Python (if using the Python local server method).
 
-Running the Code
+**Running the Code**
 
-Option 1: Visual Studio Code Live Server Extension
+Option 1: 
+Visual Studio Code Live Server Extension
 Open your project folder in Visual Studio Code.
 Install the Live Server extension if you haven’t already.
 Right-click on index.html and select "Open with Live Server".
 Your browser should open automatically and display the dashboard at http://127.0.0.1:5500 or a similar address.
 
-Option 2: Using a Python Local Server
+Option 2:
+Using a Python Local Server
 Open a terminal or command prompt in the project folder.
 Start a simple HTTP server by running the following command:
 bash
