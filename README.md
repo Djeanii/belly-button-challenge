@@ -5,7 +5,9 @@ This project is an interactive dashboard built to explore the Belly Button Biodi
 Project Structure
 
 index.html: The main HTML file, containing the structure of the dashboard and links to external scripts.
+
 app.js: JavaScript file with D3 and Plotly code to fetch the JSON data, build interactive charts, and update the page dynamically based on user selections.
+
 samples.json: The dataset file (referenced by URL in the code) containing microbial sample information, OTU IDs, and other demographic data.
 
 Features
